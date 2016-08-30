@@ -1,0 +1,5 @@
+c:\users\skyline\documents\visual studio 2013\Projects\Loreal_Profesional\CapaDatos_LorealPro\bin\Debug\CapaDatos_LorealPro.dll
+c:\users\skyline\documents\visual studio 2013\Projects\Loreal_Profesional\CapaDatos_LorealPro\bin\Debug\CapaDatos_LorealPro.pdb
+c:\users\skyline\documents\visual studio 2013\Projects\Loreal_Profesional\CapaDatos_LorealPro\obj\Debug\CapaDatos_LorealPro.csprojResolveAssemblyReference.cache
+c:\users\skyline\documents\visual studio 2013\Projects\Loreal_Profesional\CapaDatos_LorealPro\obj\Debug\CapaDatos_LorealPro.dll
+c:\users\skyline\documents\visual studio 2013\Projects\Loreal_Profesional\CapaDatos_LorealPro\obj\Debug\CapaDatos_LorealPro.pdb
